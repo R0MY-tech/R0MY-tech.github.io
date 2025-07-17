@@ -47,7 +47,7 @@ h1 {
 
 #infoP1 {
   color: black;
-  background-color: rgb(233, 216, 220);
+  background-color: rgb(253, 186, 205);
   opacity: 100%; 
   width:400px;
   height: 500px;
@@ -255,7 +255,6 @@ h1 {
   float: left;
   font-family: "Bebas Neue", sans-serif;
 }
-
 #CH {
   color: black;
   font-size: 120px;
@@ -263,7 +262,31 @@ h1 {
   margin-left: 800px;
   font-family: "Bebas Neue", sans-serif;
 }
+
 #canva-icon{
-  margin-left: 200px;
-  margin-top: 200px;
+  margin-left: 280px;
+  margin-top: 600px;
+  width: 400px;
+}
+
+.Logo{
+  font-size:300px;
+  font-family: "Bebas Neue", sans-serif;
+  margin-top:-400px;
+  margin-left:1100px;
+}
+
+#SupportingLinks1 {
+  color: black;
+  background-color: rgb(250, 164, 189);
+  opacity: 100%; 
+  width:280px;
+  height: 55px;
+  font-size: 45px;
+  position: absolute;
+  margin-top: -100px;
+  margin-right: 480px;
+  margin-left: 60px;
+  float: left;
+  font-family: "Bebas Neue", sans-serif;
 }
