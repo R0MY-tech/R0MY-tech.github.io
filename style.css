@@ -1,0 +1,269 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  color: black;
+  font-size: 100px;
+  margin-top: -200px;
+  margin-left: 655px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+#Part2 {
+  color: black;
+  font-size: 100px;
+  margin-top: -105px;
+  margin-left: 760px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+#icon {
+  margin-left: 1090px;
+  margin-top: 230px;
+}
+
+#Q1 {
+  color: black;
+  background-color: rgb(250, 164, 189);
+  width: 330px;
+  height: 40px;
+  font-size: 35.5px;
+  margin-top: 0px;
+  margin-left: 980px;
+  font-family: "Bebas Neue", sans-serif;
+  position:absolute;
+}
+
+#P1Pic {
+  margin-left: 1400px;
+  margin-top: 30px;
+}
+
+#infoP1 {
+  color: black;
+  background-color: rgb(233, 216, 220);
+  opacity: 100%; 
+  width:400px;
+  height: 500px;
+  font-size: 35.5px;
+  position: absolute;
+  margin-top: -505px;
+  margin-right: 500px;
+  margin-left: 980px;
+  float: left;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+#navigation-bar{
+  background-color: rgb(208, 251, 250);
+  width: 2000px;
+  height: 80px;
+  margin-top: -998px;
+  margin-left: -10px;
+  position: fixed;
+  z-index:5;
+}
+
+#navigation-bar1{
+  background-color: rgb(208, 251, 250);
+  width: 2000px;
+  height: 80px;
+  margin-top: -100px;
+  margin-left: -10px;
+  position: fixed;
+  z-index:5;
+}
+
+#navigation-bar-icon {
+  left: 11px;
+  top: 10px;
+  float: left;
+  position: fixed;
+  z-index:6;
+  width:60px;
+}
+
+#N1 {
+  color: black;
+  font-size: 46px;
+  margin-left:90px;
+  top:-25px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:7;
+  text-align: center;
+}
+
+#home-icon{
+  left: 190px;
+  top: 10px;
+  position: fixed;
+  z-index:7;
+  width:55px
+}
+
+#N2 {
+  color: black;
+  font-size: 46px;
+  top:-25px;
+  margin-left:265px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:7;
+  text-align: center;
+}
+
+#N3 {
+  color: black;
+  font-size: 46px;
+  margin-left: 382.5px;
+  top:-25px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:7;
+  text-align: center;
+}
+
+#N4 {
+  color: black;
+  font-size: 46px;
+  margin-left: 570px;
+  top:-25px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:7;
+  text-align: center;
+}
+
+#N5 {
+  color: black;
+  font-size: 46px;
+  margin-left: 780px;
+  top:-25px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:7;
+  text-align: center;
+}
+
+#N6 {
+  color: black;
+  font-size: 46px;
+  margin-left: 1030px;
+  top:-25px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:7;
+  text-align: center;
+}
+
+#N7 {
+  color: black;
+  font-size: 46px;
+  left: 1200px;
+  top:-25px;
+  font-family: "Bebas Neue", sans-serif;
+  position: fixed;
+  z-index:8;
+  text-align: center;
+}
+
+#search {
+  font-size:30px;
+  width:270px;
+  left: 1519px;
+  top:22.5px;
+  position: fixed;
+  z-index:7;
+  border:1px solid black;
+  background-color: rgb(191, 253, 252);
+}
+
+#search-icon {
+  left:1805px;
+  top:22.5px;
+  position: fixed;
+  z-index:7;
+  border: 1px solid black;
+}
+
+.link{ color:black}
+
+.content {
+  margin-top: -580px;
+  margin-left: -20px;
+  font-size: 30px;
+  font-family: "Bebas Neue", sans-serif;
+  color: black;
+  background-color: rgb(175, 221, 255);
+  width: 450px;
+  height: 580px;
+  position: absolute;
+  z-index: 1;
+}
+
+#TitleOfContent{
+  font-size:65px;
+  font-family: "Bebas Neue", sans-serif;
+  margin-left:90px;
+  margin-top:-575px;
+  position: absolute;
+  z-index:2;
+}
+
+#divider {
+  font-size:30px;
+  font-family: "Bebas Neue", sans-serif;
+  margin-left:15px;
+  margin-top:-510px;
+  position: absolute;
+  z-index:2;
+}
+
+#ContentList{
+  font-size:50px;
+  font-family: "Bebas Neue", sans-serif;
+  margin-left:15px;
+  margin-top:-430px;
+  position: absolute;
+  z-index:2;
+}
+
+#canvaBanner{
+  float:right;
+  margin-right:170px;
+  margin-top:60px;
+}
+
+#infoP2 {
+  color: black;
+  background-color: rgb(175, 221, 255);
+  opacity: 100%; 
+  width:800px;
+  height: 410px;
+  font-size: 45px;
+  position: absolute;
+  margin-top: 40px;
+  margin-right: 480px;
+  margin-left: 60px;
+  float: left;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+#CH {
+  color: black;
+  font-size: 120px;
+  margin-top:100px;
+  margin-left: 800px;
+  font-family: "Bebas Neue", sans-serif;
+}
+#canva-icon{
+  margin-left: 100px;
+  margin-top: 100px;
+}
